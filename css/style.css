@@ -1,0 +1,32 @@
+
+.container{
+    margin-top: 20px;
+    margin-bottom: 20px;
+} 
+
+.card{
+    box-shadow: 10px 10px 8px #888888;
+    border-radius: 0px;
+}
+
+
+.card-header i{
+    font-size: 40px;
+}
+
+.card-body{
+    text-align: justify;
+}
+
+.mb-10{
+    margin-bottom: 10px;
+}
+
+.contact-us {
+    font-size: 20px;
+}
+
+.contact-us i{
+    font-size: 25px;
+    color: cornflowerblue;
+}
